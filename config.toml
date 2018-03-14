@@ -1,12 +1,12 @@
 # Page settings
-baseurl = "/"
+baseurl = "http://padahari.com"
 title = "Persembahan Pada Hari Istimewa"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
 [params]
   
-  custom_css = ["css/custom1.css", "css/custom2.css"]
+  custom_css = ["css/style2.css", "css/animate.css", "css/magnific-popup.css"]
 
   # Meta
   author = ""
@@ -14,7 +14,7 @@ theme = "hugo-elate-theme"
   email = ""
   # Navigation
   [params.navigation]
-    brand = "Pada<b>Hari</b>"
+    brand = "PadaHari"
     home = "Beranda"
     work = "Portofolio"
     testimonials = "Testimoni"
@@ -26,7 +26,7 @@ theme = "hugo-elate-theme"
     # Assign a weight to define the order
     
     # prepended links
-    #[[menu.prepend]]
+    [[menu.prepend]]
     #  url = "http://gohugo.io"
     #  name = "Hugo"
     #  weight = 10
@@ -180,32 +180,34 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Nadine Pricilia"
-      position = "CEO"
+      position = "CEO, Designer"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person1.jpg"
-      alt = "Person1"
+      img = "nadine.jpeg"
+      alt = "Nadine"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-globe", "https://nadinepricilia.com"],
+	["icon-instagram", "https://instagram.com/nadinepricilia"],
+        ["icon-facebook", "https://facebook.com/nadine.pricilia"],
+        ["icon-tumblr", "https://nadinepricilia.tumblr.com"],
+        ["icon-linkedin", "https://linkedin.com/in/nadine-pricilia-5a927a88"]
       ]
 
     [[params.about.item]]
       name = "Muhammad Aswan Syahputra"
-      position = "Web Developer"
+      position = "CTO"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person2.jpg"
-      alt = "Person2"
+      img = "aswan.jpg"
+      alt = "Aswan"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
+        ["icon-globe", "https://aswansyahputra.com"],
+	["icon-github", "https://github.com/aswansyahputra"],
+	["icon-linkedin", "https://linkedin.com/in/aswansyahputra"]
       ]
       
 
   # Counters section
   [params.counters]
-    enable = true
+    enable = false
     title = "Stats"
     background = "full_image_1.jpg"
 
@@ -251,10 +253,10 @@ theme = "hugo-elate-theme"
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "info@freehtml5.co"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+        ["icon-home", "Cimahi"],
+        ["icon-phone", "000"],
+        ["icon-envelope", "nadinepricilia@gmail.com"],
+        ["icon-globe", '<a href="https://padahari.com/" target="_blank">padahari.com</a>']
       ]
 
     name = "Nama"
