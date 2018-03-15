@@ -49,7 +49,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Undangan"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
+    url = "/"
     button = "Buat undangan"
     icon = "icon-envelope-letter"
     img = "img_7.jpg"
@@ -260,10 +260,9 @@ theme = "hugo-elate-theme"
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "Cimahi"],
-        ["icon-phone", "000"],
-        ["icon-envelope", "nadinepricilia@gmail.com"],
-        ["icon-globe", '<a href="https://padahari.com/" target="_blank">padahari.com</a>']
+        ["icon-home", "Kota Cimahi"],
+        ["icon-phone", '<a href="https://api.whatsapp.com/send?phone=+31647609782&text=Halo%20saya%20tertarik%20dengan%20layanan%20PadaHari" target="_blank">Kirim Whatsapp ke Pada<b>Hari</b></a>'],
+        ["icon-social-instagram", '<a href="https://instagram.com/padahari_" target="_blank">Lihat Instagram Pada<b>Hari</b></a>']
       ]
 
     name = "Nama"
