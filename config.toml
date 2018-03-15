@@ -85,92 +85,99 @@ theme = "hugo-elate-theme"
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
-      img = "work_1.jpg"
-      alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
+      img = "nisa_danu.png"
+      alt = "nisa_danu1"
+      title = "Siti Anisa Hidayanti & Danu Septian"
+      subtitle = "Undangan & Suvenir"
 
     [[params.work.row]]
-      img = "work_2.jpg"
-      alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
+      img = "nisa_danu.png"
+      alt = "nisa_danu2"
+      title = "Siti Anisa Hidayanti & Danu Septian"
+      subtitle = "Undangan & Suvenir"
 
     [[params.work.row]]
-      img = "work_3.jpg"
-      alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
+      img = "nisa_danu.png"
+      alt = "nisa_danu3"
+      title = "Siti Anisa Hidayanti & Danu Septian"
+      subtitle = "Undangan & Suvenir"
 
     [[params.work.row]]
-      img = "work_4.jpg"
-      alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
+      img = "nisa_danu.png"
+      alt = "nisa_danu4"
+      title = "Siti Anisa Hidayanti & Danu Septian"
+      subtitle = "Undangan & Suvenir"
 
     [[params.work.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
+      img = "nisa_danu.png"
+      alt = "nisa_danu5"
+      title = "Siti Anisa Hidayanti & Danu Septian"
+      subtitle = "Undangan & Suvenir"
 
     [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
-
+      img = "nisa_danu.png"
+      alt = "nisa_danu6"
+      title = "Siti Anisa Hidayanti & Danu Septian"
+      subtitle = "Undangan & Suvenir"
   # Testimonials section
   [params.testimonials]
     enable = true
     title = "Apa kata mereka"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = ""
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-      person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person1.jpg"
-      alt = "Person1"
+      quote = "&ldquo;Makasih banget bangeeetttt nadiiineeeee, aku suka banget desain undangannya, lucu banget, aku banget dan sesuai dengan requestnya akuuuu, simple but chic 💕 memang ter-BISA diandelin deh pake jasa nadine, oiya e-invitationnya juga lucuukkk, ditambah story yg memang made by request dari aku juga, pokoknya I love it ❤&rdquo;"
+      person = 'Siti Anisa Hidayanti<span class="subtext">Cianjur</span>'
+      img = "person1.jpeg"
+      alt = "Siti Anisa Hidayanti"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
-      person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person2.jpg"
-      alt = "Person2"
+      quote = "&ldquo;Makasih banget bangeeetttt nadiiineeeee, aku suka banget desain undangannya, lucu banget, aku banget dan sesuai dengan requestnya akuuuu, simple but chic 💕 memang ter-BISA diandelin deh pake jasa nadine, oiya e-invitationnya juga lucuukkk, ditambah story yg memang made by request dari aku juga, pokoknya I love it ❤&rdquo;"
+      person = 'Siti Anisa Hidayanti<span class="subtext">Cianjur</span>'
+      img = "person1.jpeg"
+      alt = "Siti Anisa Hidayanti2"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
-      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person3.jpg"
-      alt = "Person3"
-    
-
-
+      quote = "&ldquo;Makasih banget bangeeetttt nadiiineeeee, aku suka banget desain undangannya, lucu banget, aku banget dan sesuai dengan requestnya akuuuu, simple but chic 💕 memang ter-BISA diandelin deh pake jasa nadine, oiya e-invitationnya juga lucuukkk, ditambah story yg memang made by request dari aku juga, pokoknya I love it ❤&rdquo;"
+      person = 'Siti Anisa Hidayanti<span class="subtext">Cianjur</span>'
+      img = "person1.jpeg"
+      alt = "Siti Anisa Hidayanti3"
 
   # Services section
   [params.services]
     enable = true
     title = "Keunggulan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Alasan untuk anda mempercayakan kebahagiaan Pada<b>Hari</b> istimewa kepada kami."
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
+      title = "Personal"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-anchor"
+      icon = "icon-user-following"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
+      title = "Hemat"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-layers2"
+      icon = "icon-wallet"
+
     [[params.services.item]]
-      title = "Photo &amp; Video"
+      title = "Kekinian"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
+      icon = "icon-rocket"
 
       [[params.services.item]]
-      title = "CMS &amp; eCommerce"
+      title = "Berwawasan Lingkungan"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
-      icon = "icon-monitor"
+      icon = "icon-globe"
+
+      [[params.services.item]]
+      title = "Sepenuh Hati"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+      icon = "icon-heart"
+
+      [[params.services.item]]
+      title = "Layanan"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+      icon = "icon-support"
 
   # About section
   [params.about]
