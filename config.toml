@@ -9,12 +9,12 @@ theme = "hugo-elate-theme"
   custom_css = ["css/style2.css", "css/animate.css", "css/magnific-popup.css"]
 
   # Meta
-  author = ""
+  author = "Muhammad Aswan Syahputra"
   description = ""
   email = ""
   # Navigation
   [params.navigation]
-    brand = "PadaHari"
+    brand = "Padahari"
     home = "Beranda"
     work = "Portofolio"
     testimonials = "Testimoni"
@@ -39,8 +39,8 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "PADA<b>HARI</b> ini, anda istimewa..."
-    subtitle = 'Percayakan kebahagiaan Pada<b>Hari</b> istimewa anda kepada kami'
+    title = "Pada<b>hari</b> ini, Anda istimewa..."
+    subtitle = 'Percayakan kebahagiaan Pada<b>hari</b> istimewa Anda kepada kami'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -48,24 +48,24 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Undangan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "/"
+    description = "Anda dapat memesan desain undangan cetak, undangan digital, beserta undangan dalam format video."
+    url = "/undangan/"
     button = "Buat undangan"
     icon = "icon-envelope-letter"
     img = "img_7.jpg"
 
   [[params.intro.item]]
     title = "Suvenir"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
+    description = "Anda dapat memesan suvenir cantik untuk pernikahan yang didesain sesuai keinginan dan harapan."
+    url = "/suvenir/"
     button = "Buat suvenir"
     icon = "icon-handbag"
     img = "img_8.jpg"
 
   [[params.intro.item]]
     title = "Seserahan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
+    description = "Anda dapat menyewa perlengkapan seserahan atau mempercayakan kami untuk menghias paket seserahan Anda."
+    url = "/seserahan/"
     button = "Buat seserahan"
     icon = "icon-present"
     img = "img_10.jpg"
@@ -81,8 +81,8 @@ theme = "hugo-elate-theme"
   [params.work]
     enable = true
     title = "Portofolio"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+    description = "Beberapa karya kami untuk kebahagiaan Pada<b>hari</b> istimewa mereka."
+    footertext = ''
 
     [[params.work.row]]
       img = "nisa_danu.png"
@@ -123,7 +123,7 @@ theme = "hugo-elate-theme"
   [params.testimonials]
     enable = true
     title = "Apa kata mereka"
-    description = ""
+    description = "Kebahagiaan bagi kami karena menjadi bagian Pada<b>hari</b> istimewa mereka."
 
     [[params.testimonials.item]]
       quote = "&ldquo;Makasih banget bangeeetttt nadiiineeeee, aku suka banget desain undangannya, lucu banget, aku banget dan sesuai dengan requestnya akuuuu, simple but chic 💕 memang ter-BISA diandelin deh pake jasa nadine, oiya e-invitationnya juga lucuukkk, ditambah story yg memang made by request dari aku juga, pokoknya I love it ❤&rdquo;"
@@ -147,48 +147,48 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Keunggulan"
-    description = "Alasan untuk anda mempercayakan kebahagiaan Pada<b>Hari</b> istimewa kepada kami."
+    description = "Alasan mempercayakan kebahagiaan Pada<b>hari</b> istimewa Anda kepada kami."
 
     [[params.services.item]]
       title = "Personal"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      description = "Kami percaya bahwa setiap orang adalah istimewa, maka kami menghadirkan kepribadian Anda yang tertuang dalam desain karya. Setiap desain yang kami buat adalah satu-satunya."
       icon = "icon-user-following"
 
     [[params.services.item]]
       title = "Hemat"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      description = "Kami yakin bahwa kualitas dan kesederhanaan dapat berjalan beriringan. Anda dapat memangkas anggaran dengan menggunakan berbagai pilihan karya dari kami."
       icon = "icon-wallet"
 
     [[params.services.item]]
       title = "Kekinian"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      description = "Kami menawarkan karya dengan desain masa kini yang ideal untuk diunggah dan dibagikan melalui Instagram, Instagram Story, Facebook, maupun media sosial pilihan Anda lainnya."
       icon = "icon-rocket"
 
       [[params.services.item]]
       title = "Berwawasan Lingkungan"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+      description = "Kami memiliki prinsip untuk menjaga bumi, karenanya setiap karya yang ditawarkan sebisa mungkin dirancang ramah lingkungan: undangan digital dan kemasan seserahan yang tidak sekali pakai."      
       icon = "icon-globe"
 
       [[params.services.item]]
       title = "Sepenuh Hati"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+      description = "Kami bekerja atas dasar kecintaan akan dunia desain dan bisnis kebahagiaan, sehingga setiap karya yang dihasilkan dapat dinikmati dan memberikan kebahagiaan untuk Anda."
       icon = "icon-heart"
 
       [[params.services.item]]
       title = "Layanan"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+      description = "Kami percaya bahwa karya yang terbaik tercipta dari komunikasi yang prima. Kami siap mendengarkan dan melayani hingga mendapatkan karya yang sesuai dengan harapan Anda."      
       icon = "icon-support"
 
   # About section
   [params.about]
     enable = true
     title = "Tentang Kami"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Pada<b>hari</b> dibangun dan ditumbuhkan dengan cinta."
 
     [[params.about.item]]
       name = "Nadine Pricilia"
       position = "CEO, Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      description = ""
       img = "nadine.jpeg"
       alt = "Nadine"
       social = [
@@ -202,7 +202,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Muhammad Aswan Syahputra"
       position = "CTO"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      description = ""
       img = "aswan.jpg"
       alt = "Aswan"
       social = [
@@ -256,13 +256,13 @@ theme = "hugo-elate-theme"
     map = true
     form = true
     title = "Hubungi Kami"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Ceritakan rencana dan impian, kami bantu mewujudkan kebahagiaan Anda."
     
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "Kota Cimahi"],
-        ["icon-phone", '<a href="https://api.whatsapp.com/send?phone=+31647609782&text=Halo%20saya%20tertarik%20dengan%20layanan%20PadaHari" target="_blank">Kirim Whatsapp ke Pada<b>Hari</b></a>'],
-        ["icon-social-instagram", '<a href="https://instagram.com/padahari_" target="_blank">Lihat Instagram Pada<b>Hari</b></a>']
+        ["icon-phone", '<a href="https://api.whatsapp.com/send?phone=+31647609782&text=Halo%20saya%20tertarik%20dengan%20layanan%20PadaHari" target="_blank">Kirim Whatsapp ke Pada<b>hari</b></a>'],
+        ["icon-social-instagram", '<a href="https://instagram.com/padahari_" target="_blank">Lihat Instagram Pada<b>hari</b></a>']
       ]
 
     name = "Nama"
