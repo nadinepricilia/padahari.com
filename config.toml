@@ -4,8 +4,11 @@ title = "Persembahan Pada Hari Istimewa"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
+
 [params]
-  
+  logo = true
   custom_css = ["css/style2.css", "css/animate.css", "css/magnific-popup.css"]
 
   # Meta
