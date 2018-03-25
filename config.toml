@@ -52,7 +52,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Undangan"
     description = "Anda dapat memesan desain undangan cetak, undangan digital, beserta undangan dalam format video."
-    url = "/undangan/"
+    url = "/test"
     button = "Buat undangan"
     icon = "icon-envelope-letter"
     img = "img_7.jpg"
